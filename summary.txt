@@ -1,0 +1,16 @@
+Podsumowanie zadania rekrutacyjnego
+
+Zadanie było bardzo przyjemne i ciekawe. Największym problemem były ciągłe braki dostępu do danych spowodowane przekroczeniem limitu API Rate i trzeba było czekać około godzinę na odnowienie limitu.
+Praca z API GitHuba poza wymienionym wyżej problemem przebiegła bezproblemowo i zgrabnie. Otrzymałem dostęp do potrzebnych danych i udało mi się osiągnąć rozwiązanie przesłane w repozytorium.
+
+Instrukcja:
+Całą aplikację należy uruchomić przy pomocy pliku index.php.
+Następnie w formularzu należy podać nazwę organizacji, której repozytoria mają się pojawić na liście oraz wybrać sposób sortowania listy.
+Po wpisaniu nazwy i wybraniu sposobu sortowania należy wcisnąć przycisk 'Pokaż repozytoria'.
+
+Uruchomiony zostanie skrypt, który pokaże w formie tabeli listę repozytoriów składającą się z:
+- nazwy repozytorium (jest to link do danego repozytorium)
+- ilości kontrybutorów danego repozytorium
+- informacji czy repozytorium jest forkiem (jeśli tak, to w następnej kolumnie jest podana nazwa-link do repozytorium bazowego)
+
+Pod tabelą znajduje się przycisk odsyłający z powrotem na stronę główną (do pliku index.php) aby móc podać informacje na utworzenie nowej listy repozytoriów.
